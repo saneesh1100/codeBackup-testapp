@@ -9,6 +9,7 @@ import { PostService } from './posts/services/post.service';
 export class AppComponent { 
   constructor(private postService: PostService){
   }
+  
 
   isLoadingFinished(){
     return this.postService.isLoaded;
