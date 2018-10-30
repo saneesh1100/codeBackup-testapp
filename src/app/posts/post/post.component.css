@@ -1,0 +1,12 @@
+thead>tr>th {
+    cursor: pointer;
+}
+
+.widthHeader-1{
+ min-width:52px;
+}
+
+.widthHeader-2{
+min-width:80px;
+}
+

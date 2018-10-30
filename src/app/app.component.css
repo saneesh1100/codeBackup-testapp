@@ -1,0 +1,11 @@
+/*!
+ * Sample css for landingPage
+ */
+
+ @media (min-width: 992px) {
+  body {
+    padding-top: 56px;
+  }
+}
+
+  
